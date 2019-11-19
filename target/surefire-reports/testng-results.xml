@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="testArgentesting.SearchItemsTest" duration-ms="19155" started-at="2019-11-18T22:48:31 ART" finished-at="2019-11-18T22:48:50 ART">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="19155" started-at="2019-11-18T22:48:31 ART" finished-at="2019-11-18T22:48:50 ART">
+      <class name="testArgentesting.SearchItemsTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testArgentesting.SearchItemsTest@4b9e13df]" name="setUp" is-config="true" duration-ms="5320" started-at="2019-11-18T22:48:31 ART" finished-at="2019-11-18T22:48:36 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="searchPagina()[pri:0, instance:testArgentesting.SearchItemsTest@4b9e13df]" name="searchPagina" duration-ms="13183" started-at="2019-11-18T22:48:36 ART" description="Busqueda página Argentesting" finished-at="2019-11-18T22:48:49 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchPagina -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testArgentesting.SearchItemsTest@4b9e13df]" name="tearDown" is-config="true" duration-ms="617" started-at="2019-11-18T22:48:49 ART" finished-at="2019-11-18T22:48:50 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testArgentesting.SearchItemsTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- testArgentesting.SearchItemsTest -->
+</testng-results>
